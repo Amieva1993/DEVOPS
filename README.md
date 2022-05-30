@@ -1,62 +1,25 @@
-# SCRUM
+# LocFast - Bonne pratiques
 
-Une petite description du projet
+## Linting
+Nous utiliseront le linter [**eslint**](https://eslint.org/) pour la partie back nodejs et front react.\
+Et pour la partie flutter nous utiliserons le linter [**dart_analyzer**](https://pub.dev/packages/dart_analyzer).
 
-## Pour commencer
+## Design pattern
+Nous utiliserons le design pattern [**MVC**](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) pour la partie back nodejs et front react.\
+Et pour la partie flutter nous utiliserons le design pattern [**MVP**](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter).
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+## Code coverage / dette technique
+Nous utiliserons [**sonarqube**](https://sonarqube.com/) pour obtenir le code coverage et la dette technique.
 
-### Pré-requis
+## Documentation
+Nous avons un dossier drive qui contient les fichiers de documentation.\
+[**Cliquez-ici**](https://drive.google.com/drive/folders/1FNJxvxGOwrwIu90q42R51_Rhd-8opmjS?usp=sharing) pour accéder à la documentation.
 
-Ce qu'il est requis pour commencer avec votre projet...
-
-- Programme 1
-- Programme 2
-- etc...
-
-### Installation
-
-Les étapes pour installer votre programme....
-
-Dites ce qu'il faut faire...
-
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
-
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
-
-## Démarrage
-
-Dites comment faire pour lancer votre projet
-
-## Fabriqué avec
-
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
-
-_exemples :_
-* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
-
-## Contributing
-
-Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.
-
-## Versions
-Listez les versions ici 
-_exemple :_
-**Dernière version stable :** 5.0
-**Dernière version :** 5.1
-Liste des versions : [Cliquer pour afficher](https://github.com/your/project-name/tags)
-_(pour le lien mettez simplement l'URL de votre projets suivi de ``/tags``)_
-
-## Auteurs
-Listez le(s) auteur(s) du projet ici !
-* **Jhon doe** _alias_ [@outout14](https://github.com/outout14)
-
-Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
-
-_(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``)_
-
-## License
-
-Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+## Definition of done
+- Revue du code effectuée
+- Les critères d'acceptation de la user story sont tous validés
+- Les différents tests sont passés
+- La documentation a été mise à jour
+- Les maquettes graphiques ont été respectées
+- Les normes de code sont respectées afin de ne pas apporter de la dette technique
+- La couverture de code doit être suffisante (au moins 80%)
