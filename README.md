@@ -10,7 +10,7 @@ Nous utiliserons le design pattern [**MVVM**](https://en.wikipedia.org/wiki/Mode
 
 ## Code coverage / dette technique
 Plusieurs outils et logiciels permettent d’estimer automatiquement sa dette technique. Sonarqube, par exemple, l’évalue en jours à mobiliser pour la correction des problèmes. Il détecte entres autres le code dupliqué ou inutilisé\
-Nous utiliserons donc [**sonarqube**](https://sonarqube.com/) pour obtenir le code coverage et la dette technique.
+Nous utiliserons donc [**Sonarqube**](https://sonarqube.com/) pour obtenir le code coverage et la dette technique.
 
 ## Documentation
 Nous avons répertorier notre documentation sur notre drive.\
