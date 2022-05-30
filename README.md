@@ -10,7 +10,7 @@ Nous utiliserons le design pattern [**MVVM**](https://en.wikipedia.org/wiki/Mode
 Nous utiliserons [**sonarqube**](https://sonarqube.com/) pour obtenir le code coverage et la dette technique.
 
 ## Documentation
-Nous avons un dossier drive qui contient les fichiers de documentation.\
+Nous avons répertorier notre documentation sur notre drive.\
 [**Cliquez-ici**](https://drive.google.com/drive/folders/1FNJxvxGOwrwIu90q42R51_Rhd-8opmjS?usp=sharing) pour accéder à la documentation.
 
 ## Definition of done
