@@ -23,5 +23,5 @@ Exemple de critères présents dans la DoD :
 - La documentation a été mise à jour
 - Les maquettes graphiques ont été respectées
 - Les normes de code sont respectées afin de ne pas apporter de la dette technique
-- La couverture de code doit être suffisante (au moins 80%)\\
-Une fois la première version de la DoD définie, n’hésitez pas à la partager avec vos parties prenantes pour leur expliquer la démarche et les rassurer sur la qualité des livrables qu’ils vont recevoir. 
+- La couverture de code doit être suffisante (au moins 80%)\
+
