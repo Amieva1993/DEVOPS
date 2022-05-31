@@ -2,11 +2,13 @@
 
 ## Linting
 L'intérêt du linteur et qu'il va tenter de forcer le développeur à corriger le maximum d'erreurs potentielles avant la compilation et/ou l'exécution ainsi que l'inciter à écrire du meilleur code, du beau code.\
-Nous utiliseront le linter [**SonarLint**](https://www.sonarlint.org/) pour la partie back C# et front Xamarin sur Visual Studio.\
+Nous utiliseront le linter [**eslint**](https://eslint.org/) pour la partie back nodejs et front react.\
+Et pour la partie flutter nous utiliserons le linter [**dart_analyzer**](https://pub.dev/packages/dart_analyzer).
 
 ## Design pattern
 Connaitre les design patterns te permet d’avoir des concepts de solutions fiables et testées pour tout type de problème de conception logiciel.\
-Nous utiliserons le design pattern [**MVVM**](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) pour la partie back C# et Xamarin.\
+Nous utiliserons le design pattern [**MVC**](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) pour la partie back nodejs et front react.\
+Et pour la partie flutter nous utiliserons le design pattern [**MVP**](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter).
 
 ## Code coverage / dette technique
 Plusieurs outils et logiciels permettent d’estimer automatiquement sa dette technique. Sonarqube, par exemple, l’évalue en jours à mobiliser pour la correction des problèmes. Il détecte entres autres le code dupliqué ou inutilisé\
