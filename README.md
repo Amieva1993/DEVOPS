@@ -14,7 +14,7 @@ Nous utiliserons donc [**Sonarqube**](https://sonarqube.com/) pour obtenir le co
 
 ## Documentation
 Nous avons répertorier notre documentation sur notre drive.\
-[**Cliquez-ici**](https://drive.google.com/drive/folders/1Dta5JGduhCjiUBTkyTF91gAvJNyl4QXx) pour accéder à la documentation.
+[**Cliquez-ici**](https://drive.google.com/drive/folders/1Dta5JGduhCjiUBTkyTF91gAvJNyl4QXx?usp=sharing) pour accéder à la documentation.
 
 ## Definition of done
 La definition of done peut être élaborée en atelier par l’équipe technique, le product owner, scrum master et l’équipe QA agile.
